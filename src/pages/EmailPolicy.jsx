@@ -28,10 +28,9 @@ export default function EmailPolicy() {
           </p>
 
           <p>
-            These communications are generally triggered by a user's
-            application, registration, payment, service request, support
-            request, internship participation, or other interaction with
-            The Skybrisk.
+            These communications may be triggered by a user's application,
+            registration, payment, service request, support request,
+            internship participation, or other interaction with The Skybrisk.
           </p>
 
           <h2>2. How We Obtain Email Addresses</h2>
@@ -52,14 +51,14 @@ export default function EmailPolicy() {
           </ul>
 
           <p>
-            We do not purchase, rent, trade, or scrape third-party email
-            databases for unsolicited email campaigns.
+            The Skybrisk does not purchase, rent, trade, or intentionally
+            scrape third-party email databases for unsolicited email campaigns.
           </p>
 
           <p>
-            We do not intentionally send bulk transactional emails to
-            unrelated recipients or email addresses obtained from
-            third-party databases.
+            Email addresses are intended to be used in connection with the
+            user's direct interaction with The Skybrisk and the services or
+            communications requested by the user.
           </p>
 
           <h2>3. Types of Emails We Send</h2>
@@ -81,15 +80,15 @@ export default function EmailPolicy() {
             <li>Account or service notifications.</li>
             <li>Support responses.</li>
             <li>Important administrative notifications.</li>
-            <li>Other emails directly related to a requested service.</li>
+            <li>Other communications directly related to a requested service.</li>
           </ul>
 
           <h2>4. Transactional Communications</h2>
 
           <p>
-            Transactional emails are communications sent as a result of an
-            action, request, application, transaction, or service interaction
-            initiated by the recipient.
+            Transactional emails are communications sent in connection with
+            an action, request, application, transaction, or service
+            interaction initiated by the recipient.
           </p>
 
           <p>
@@ -105,24 +104,25 @@ export default function EmailPolicy() {
             participation.
           </p>
 
-          <h2>5. Email Communication and User Interaction</h2>
+          <h2>5. User-Initiated Email Communication</h2>
 
           <p>
-            We send transactional communications based on the user's direct
-            interaction with The Skybrisk, including applications,
-            registrations, transactions, service requests, support requests,
-            or participation in our programs.
+            The Skybrisk uses email addresses provided by users through
+            direct interactions with our website, application forms,
+            registration processes, payment processes, support requests,
+            or other service-related interactions.
           </p>
 
           <p>
-            Users provide their email address when they choose to interact
-            with our website, submit an application, request a service, or
-            communicate with us.
+            Users are responsible for providing an accurate and accessible
+            email address when submitting an application or requesting a
+            service.
           </p>
 
           <p>
-            Transactional communications are necessary to provide or
-            administer the requested service or interaction.
+            Transactional communications are sent when reasonably necessary
+            to provide, administer, confirm, or support the requested
+            service or interaction.
           </p>
 
           <h2>6. Promotional Communications</h2>
@@ -133,55 +133,62 @@ export default function EmailPolicy() {
           </p>
 
           <p>
+            The Skybrisk does not use transactional communications as a
+            substitute for unsolicited promotional campaigns.
+          </p>
+
+          <p>
             If The Skybrisk introduces promotional or marketing email
-            communications in the future, such communications will be
-            handled separately and appropriate consent and communication
-            preference mechanisms will be implemented where required.
+            communications in the future, such communications will be handled
+            separately and appropriate consent and communication preference
+            mechanisms will be implemented where required.
           </p>
 
-          <h2>7. Bounce and Delivery Handling</h2>
+          <h2>7. Email Delivery and Failed Messages</h2>
 
           <p>
-            The Skybrisk monitors email delivery information, including
-            bounced messages and delivery failures.
-          </p>
-
-          <p>
-            Email addresses that are permanently undeliverable or repeatedly
-            fail delivery may be removed or suppressed from future sending
-            to help maintain responsible email delivery practices.
+            Email delivery may occasionally fail because an email address is
+            invalid, unavailable, full, or otherwise unable to receive
+            messages.
           </p>
 
           <p>
-            Delivery failures are reviewed to help reduce repeated attempts
-            to deliver emails to invalid or unavailable addresses.
-          </p>
-
-          <h2>8. Complaint Handling</h2>
-
-          <p>
-            The Skybrisk takes email complaints and abuse signals seriously.
+            The Skybrisk may review delivery failures and take reasonable
+            steps to avoid repeatedly attempting delivery to addresses that
+            are known to be permanently undeliverable.
           </p>
 
           <p>
-            Where a complaint or other reliable signal indicates that
-            continued communication to an address may be inappropriate, the
-            address may be reviewed and suppressed from future sending where
-            appropriate.
+            Email delivery information may also be used to help maintain
+            responsible email-sending practices.
+          </p>
+
+          <h2>8. Complaint and Abuse Handling</h2>
+
+          <p>
+            The Skybrisk takes email complaints, abuse reports, and other
+            reliable email-delivery signals seriously.
+          </p>
+
+          <p>
+            Where a reliable signal indicates that continued communication
+            to an email address may be inappropriate, The Skybrisk may
+            review the situation and take appropriate action, including
+            limiting or preventing future email delivery where appropriate.
           </p>
 
           <h2>9. Email Suppression</h2>
 
           <p>
-            The Skybrisk may maintain suppression records for email
-            addresses associated with permanent delivery failures, repeated
-            delivery failures, complaints, or other circumstances where
-            continued sending would be inappropriate.
+            Where appropriate, The Skybrisk may maintain records to help
+            prevent repeated email delivery to addresses associated with
+            permanent delivery failures, complaints, abuse reports, or other
+            circumstances where continued sending may be inappropriate.
           </p>
 
           <p>
-            Suppression information may be used to prevent repeated delivery
-            attempts to addresses that should no longer receive email.
+            Such information may be used solely for responsible email
+            delivery and suppression purposes.
           </p>
 
           <h2>10. Amazon SES and Email Delivery Providers</h2>
@@ -200,25 +207,25 @@ export default function EmailPolicy() {
           </p>
 
           <p>
-            Our use of an email delivery provider does not change our
-            responsibility to use email responsibly and in accordance with
-            our policies.
+            The use of an email delivery provider does not change The
+            Skybrisk's responsibility to use email responsibly and in
+            accordance with applicable policies and requirements.
           </p>
 
           <h2>11. Responsible Sending Practices</h2>
 
           <p>
-            The Skybrisk follows responsible email practices, including:
+            The Skybrisk aims to follow responsible email practices,
+            including:
           </p>
 
           <ul>
             <li>
-              Collecting email addresses directly from users through
-              user-initiated interactions.
+              Collecting email addresses through direct user interactions.
             </li>
 
             <li>
-              Sending transactional emails in response to applications,
+              Sending transactional emails in connection with applications,
               transactions, requests, or service interactions.
             </li>
 
@@ -227,21 +234,22 @@ export default function EmailPolicy() {
             </li>
 
             <li>
-              Not using scraped third-party email databases for unsolicited
-              email campaigns.
+              Not intentionally using scraped third-party email databases
+              for unsolicited email campaigns.
             </li>
 
             <li>
-              Monitoring email delivery and bounce information.
+              Reviewing email delivery failures where appropriate.
             </li>
 
             <li>
-              Reviewing complaints and email-abuse signals.
+              Taking appropriate action when reliable complaint or abuse
+              signals are received.
             </li>
 
             <li>
-              Suppressing invalid or repeatedly undeliverable addresses
-              where appropriate.
+              Limiting repeated delivery attempts to addresses known to be
+              permanently undeliverable where appropriate.
             </li>
 
             <li>
